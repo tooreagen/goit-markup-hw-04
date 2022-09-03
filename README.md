@@ -1,3 +1,1 @@
-# goit-markup-hw-03
-
-"useTabs": true,
+# goit-markup-hw-04
